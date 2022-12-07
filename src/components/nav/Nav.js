@@ -8,17 +8,26 @@ export default function Nav() {
   return (
     <>
       <nav>
-        <a className='nav-button' href='/'>
+        <a className='nav-button' href='/understanding-an-education/'>
           <h3>Understanding an Education</h3>
         </a>
         <div id='nav-options'>
-          <a className='nav-button' href='/?path=/home'>
+          <a
+            className='nav-button'
+            href='/understanding-an-education/?path=/home'
+          >
             Home
           </a>
-          <a className='nav-button' href='/?path=/mission'>
+          <a
+            className='nav-button'
+            href='/understanding-an-education/?path=/mission'
+          >
             Mission
           </a>
-          <a className='nav-button' href='/?path=/articles'>
+          <a
+            className='nav-button'
+            href='/understanding-an-education/?path=/articles'
+          >
             Articles
           </a>
         </div>
