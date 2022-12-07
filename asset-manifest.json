@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/understanding-an-education/static/css/main.6b4f535f.css",
-    "main.js": "/understanding-an-education/static/js/main.b46ef2e9.js",
+    "main.js": "/understanding-an-education/static/js/main.035279ec.js",
     "static/media/Angeline Vintage_Demo.ttf": "/understanding-an-education/static/media/Angeline Vintage_Demo.990bd8e6e8676ab10096.ttf",
     "static/media/TheanoDidot-Regular.ttf": "/understanding-an-education/static/media/TheanoDidot-Regular.1fb7644d6925a261981d.ttf",
     "static/media/Montserrat-Regular.ttf": "/understanding-an-education/static/media/Montserrat-Regular.e20d5327f1a05620c084.ttf",
     "index.html": "/understanding-an-education/index.html",
     "main.6b4f535f.css.map": "/understanding-an-education/static/css/main.6b4f535f.css.map",
-    "main.b46ef2e9.js.map": "/understanding-an-education/static/js/main.b46ef2e9.js.map"
+    "main.035279ec.js.map": "/understanding-an-education/static/js/main.035279ec.js.map"
   },
   "entrypoints": [
     "static/css/main.6b4f535f.css",
-    "static/js/main.b46ef2e9.js"
+    "static/js/main.035279ec.js"
   ]
 }
