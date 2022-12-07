@@ -1,0 +1,58 @@
+/* 
+
+Colors:
+
+#C5D86D --- Green
+#261C15 --- Black
+#F7F7F2 --- White
+#E4E6C3 --- Light Green
+#F05D23 --- Orange
+
+*/
+
+body {
+  margin-top: 80px;
+  font-family: 'Theano', serif;
+  background-color: #f7f7f2;
+  color: #261c15;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.click {
+  cursor: pointer;
+}
+
+#page-title {
+  // font-family: 'Vintage', sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2,
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+@font-face {
+  font-family: 'Vintage';
+  src: local('Angeline Vintage_Demo'),
+    url('./fonts/Angeline Vintage_Demo.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat-Regular'),
+    url('./fonts/Montserrat-Regular.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Theano';
+  src: local('TheanoDidot-Regular'),
+    url('./fonts/TheanoDidot-Regular.ttf') format('truetype');
+  font-weight: bold;
+}

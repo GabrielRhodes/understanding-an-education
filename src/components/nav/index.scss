@@ -1,0 +1,56 @@
+nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  height: 80px;
+  width: 94vw;
+  padding: 0 3vw;
+  display: grid;
+  background-color: #f7f7f2;
+  grid-template-columns: 6fr 4fr 8fr;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  box-shadow: rgba(50, 50, 93, 0.05) 0px 20px 40px -8px,
+    rgba(0, 0, 0, 0.05) 0px 14px 27px -14px;
+  h3 {
+    font-size: 24px;
+    margin-top: 22px;
+  }
+}
+
+hr {
+  width: 100vw;
+  margin-left: -10px;
+  color: #261c15;
+}
+
+#nav-options {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  a {
+    font-size: 16px;
+    margin-top: 26px;
+  }
+}
+
+#nav-controls {
+  display: grid;
+  width: 90%;
+  grid-template-columns: 2fr 1fr 20px;
+  grid-gap: 10px;
+  input {
+    height: 20px;
+    font-size: 16px;
+    margin-top: 26px;
+  }
+  svg {
+    margin-top: 30px;
+    color: black;
+  }
+}
+
+.nav-button {
+  text-decoration: none;
+  color: #261c15;
+}
