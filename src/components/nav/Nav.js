@@ -43,7 +43,10 @@ export default function Nav() {
               }
             }}
           ></input>
-          <a id='link' href={`/?path=/articles&q=${search}`}>
+          <a
+            id='link'
+            href={`/understanding-an-education/?path=/articles&q=${search}`}
+          >
             <FontAwesomeIcon
               icon={solid('magnifying-glass')}
               className={'click'}
